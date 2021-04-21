@@ -1,0 +1,3 @@
+/home/user/projects/Computer-Vision-And-Applications/Image-Stitching/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/user/projects/Computer-Vision-And-Applications/Image-Stitching/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/user/projects/Computer-Vision-And-Applications/Image-Stitching/cmake-build-release/CMakeFiles/Image_Stitching.dir
